@@ -1,0 +1,38 @@
+ Studi Kasus: Aplikasi Penghitung Nilai Rata-rata Mahasiswa
+Deskripsi:
+
+Buatlah program Go yang:
+
+Meminta user untuk memasukkan jumlah mahasiswa.
+
+Meminta user memasukkan nama dan nilai setiap mahasiswa.
+
+Menghitung rata-rata nilai dari seluruh mahasiswa.
+
+Menampilkan daftar nama mahasiswa dengan nilainya, serta rata-rata nilai secara keseluruhan.
+
+Menampilkan siapa yang mendapat nilai tertinggi.
+
+========================== EXAMPLE : OUTPUT PROGRAM ======================
+
+Masukkan jumlah mahasiswa: 3
+
+Mahasiswa ke-1
+Nama: Ilham
+Nilai: 90
+
+Mahasiswa ke-2
+Nama: Sinta
+Nilai: 75
+
+Mahasiswa ke-3
+Nama: Danu
+Nilai: 85
+
+Daftar Nilai Mahasiswa:
+- Ilham: 90
+- Sinta: 75
+- Danu: 85
+
+Rata-rata nilai: 83.33
+Nilai tertinggi: Ilham (90)
