@@ -1,0 +1,27 @@
+Membuat aplikasi di terminal yang dapat mengkonversi nilai dari mata uang Rupiah (IDR) ke mata uang asing seperti USD, EUR, atau JPY berdasarkan pilihan user.
+
+🧩 Spesifikasi Soal:
+✅ 1. Fitur Utama:
+Input: Jumlah uang dalam Rupiah.
+
+
+Pilih mata uang tujuan:
+
+USD
+
+EUR
+
+JPY
+
+Output: Hasil konversi ke mata uang yang dipilih.
+
+Ulangi proses hingga user memilih keluar.
+
+✅ 2. Kurs Tetap (hardcoded):
+Kamu bisa set kurs mata uang seperti ini (contoh, bukan kurs asli):
+
+1 USD = 15,500 IDR
+
+1 EUR = 17,000 IDR
+
+1 JPY = 110 IDR
