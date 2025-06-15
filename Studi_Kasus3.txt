@@ -1,0 +1,23 @@
+🎯 Studi Kasus: Aplikasi Manajemen Buku Sederhana (Console App)
+Deskripsi Kasus:
+
+Kamu akan membuat aplikasi berbasis command-line untuk mengelola data buku. User dapat:
+
+Menambahkan buku baru.
+
+Melihat daftar buku.
+
+Mencari buku berdasarkan ID.
+
+Menghapus buku.
+
+ ==================== Konsep yang Kamu Pelajari ==============
+
+struct, slice, function
+
+bufio.Scanner, fmt.Scan, dan input/output dasar
+
+switch, for loop, pointer
+
+modularisasi sederhana
+
